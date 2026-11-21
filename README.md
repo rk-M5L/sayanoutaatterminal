@@ -9,8 +9,8 @@ A small Bash script that displays green ASCII art of Saya in the terminal, plays
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com
-   cd repo-name
+   git clone https://github.com/rk-M5L/sayanoutaatterminal
+   cd sayanoutaatterminal
    ```
 
 2. Make the script executable:
